@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kirk! <br/> <a >Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Kirk Johnson. <br/> <a >Cybersecurity Enthusiast</a>
 
 <h2> Cybersecurity Projects:</h2>
 
