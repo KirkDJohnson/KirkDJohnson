@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Kirk! <br/> <a Cybersecurity Enthusiasta>
+
+<h2> Cybersecurity Projects:</h2>
+
+- <b>Test</b>
+
+- <b>Test2</b>
+
+- <b>Blue Team Skils</b>
+
+- <b>Cisco</b>
+
+- <b>Try Hack Me</b>
+ 
+
+
+
+
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**KirkDJohnson/KirkDJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
