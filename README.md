@@ -8,7 +8,8 @@
 
 - <b>Blue Team Skils</b>
 
-- <b>Cisco</b>
+- <b>Cisco </b>
+- Packet Tracer (https://github.com/KirkDJohnson/Cisco-Cybersecurity)
 
 - <b>Try Hack Me</b>
  
@@ -16,7 +17,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
