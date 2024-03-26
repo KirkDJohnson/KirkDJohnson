@@ -9,7 +9,7 @@
 - <b>Blue Team Skils</b>
 
 - <b>Cisco </b>
-- Packet Tracer (https://github.com/KirkDJohnson/Cisco-Cybersecurity)
+- [Packet Tracer](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
 
 - <b>Try Hack Me</b>
  
