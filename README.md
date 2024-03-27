@@ -5,6 +5,7 @@
 - <b>Test</b>
 
 - <h3>Google Cybersecurity</b>
+-[Google Cybersecurity Labs](https://github.com/KirkDJohnson/Google-Cybersecurity-Labs)
 
 - <h3>Blue Team Skils</b>
 -[Nessus](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
