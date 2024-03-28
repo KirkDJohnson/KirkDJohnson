@@ -15,7 +15,7 @@
 -[Google Cybersecurity Labs](https://github.com/KirkDJohnson/Google-Cybersecurity-Labs)
 
 
-<h2>Certifications</h2>
+<h2>Certifications and Credentials</h2>
  
 
 
