@@ -15,6 +15,7 @@
 -[Packet Tracer](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
 
 - <b>Try Hack Me</b>
+<h2>Certifications</h2>
  
 
 
@@ -23,7 +24,7 @@
 [linkedin]: https://linkedin.com
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KirkDJohnson/KirkDJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
