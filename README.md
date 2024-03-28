@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kirk Johnson. <br/> <a >Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Kirk Johnson. <br/> <a >Cybersecurity and Blue Team Enthusiast</a>
 
 <h2> Cybersecurity Projects:</h2>
 
@@ -11,7 +11,7 @@
 -[Wireshark Malware Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
 
 - <h3>Guided Course Labs</b>
--[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
+-[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)<br/>
 -[Google Cybersecurity Labs](https://github.com/KirkDJohnson/Google-Cybersecurity-Labs)
 
 
