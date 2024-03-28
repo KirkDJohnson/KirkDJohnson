@@ -11,10 +11,10 @@
 -[Nessus Vulnerability Scanner Lab](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
 -[Wireshark Malware Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
 
-- <h3>Cisco </b>
--[Packet Tracer](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
+- <h3>Cisco Networking and Cybersecurity </b>
+-[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
 
-- <b>Try Hack Me</b>
+
 <h2>Certifications</h2>
  
 
