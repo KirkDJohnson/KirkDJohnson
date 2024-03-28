@@ -3,16 +3,16 @@
 <h2> Cybersecurity Projects:</h2>
 
 
-- <h3>Google Cybersecurity</b>
--[Google Cybersecurity Labs](https://github.com/KirkDJohnson/Google-Cybersecurity-Labs)
+
 
 - <h3>Blue Team Skils</b>
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
 -[Nessus Vulnerability Scanner Lab](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
 -[Wireshark Malware Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
 
-- <h3>Cisco Networking and Cybersecurity </b>
+- <h3>Guided Course Labs</b>
 -[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)
+-[Google Cybersecurity Labs](https://github.com/KirkDJohnson/Google-Cybersecurity-Labs)
 
 
 <h2>Certifications</h2>
