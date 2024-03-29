@@ -17,7 +17,7 @@
 
 <h2>Certifications and Credentials</h2>
  
-[Certifications and Credentials](https://github.com/KirkDJohnson/Certifications-and-Credentials/tree/main)  
+-[Certifications and Credentials](https://github.com/KirkDJohnson/Certifications-and-Credentials/tree/main)  
 
 
 
