@@ -1,6 +1,8 @@
 <h1>Hi, I'm Kirk Johnson. <br/> <a >Cybersecurity and Blue Team Enthusiast</a>
 <h2>About Me</h2>
-Test Test Test Test Test Test Test Test Test Test Test Test Test Test 
+ 
+<h3>I aspire to become a Security Operations Center (SOC) Analyst. I am incredibly passionate about protecting digital hosts and asssets from a continuous threat landscape. Through dilligent self-learning and hands-on labs, I have built skills in threat intelligence, threat detection, and incident response.</b>
+ 
 <h2> Cybersecurity Projects:</h2>
 
 
