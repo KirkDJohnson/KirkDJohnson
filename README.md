@@ -1,11 +1,12 @@
 <h1>Hi, I'm Kirk Johnson. <br/> <a >Cybersecurity and Blue Team Enthusiast</a>
-
+<h2>About Me</h2>
+Test Test Test Test Test Test Test Test Test Test Test Test Test Test 
 <h2> Cybersecurity Projects:</h2>
 
 
 
 
-- <h3>Blue Team Skils</b>
+- <h3>Blue Team Skills</b>
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
 -[Nessus Vulnerability Scanner Lab](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
 -[Wireshark Malware Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
