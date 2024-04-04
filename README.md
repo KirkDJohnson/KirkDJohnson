@@ -12,6 +12,7 @@
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
 -[Nessus Vulnerability Scanner Lab](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
 -[Wireshark Malware Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
+-[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)
 
 - <h3>Guided Course Labs</b>
 -[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)<br/>
