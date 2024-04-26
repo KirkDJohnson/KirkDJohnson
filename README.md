@@ -15,6 +15,7 @@
 -[Wireshark Malicious Port Scan Analysis Lab](https://github.com/KirkDJohnson/Network-Scan-pcap-Lab)<br/>
 -[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)<br/>
 -[Malicious Phishing Email Analysis Lab](https://github.com/KirkDJohnson/Phishing-Analysis)<br/>
+-[Endpoint Compromise Log Anlysis with Elastic Search Lab](https://github.com/KirkDJohnson/ELK-Log-Analysis-Lab)<br/>
 
 - <h3>Guided Course Labs</b>
 -[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)<br/>
