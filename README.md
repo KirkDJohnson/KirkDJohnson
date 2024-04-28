@@ -16,6 +16,7 @@
 -[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)<br/>
 -[Malicious Phishing Email Analysis Lab](https://github.com/KirkDJohnson/Phishing-Analysis)<br/>
 -[Endpoint Compromise Log Anlysis with Elastic Search Lab](https://github.com/KirkDJohnson/ELK-Log-Analysis-Lab)<br/>
+-[Ransomware Attack Log Analysis with Splunk Lab](https://github.com/KirkDJohnson/Splunk-Ransomware-Analysis)<br/>
 
 - <h3>Guided Course Labs</b>
 -[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)<br/>
