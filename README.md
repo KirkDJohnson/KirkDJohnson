@@ -16,6 +16,7 @@
 -[Brim IDS/pcap Analysis Lab](https://github.com/KirkDJohnson/Brim-IDS-Analysis-Lab)<br/>
 -[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)<br/>
 -[Malicious Phishing Email Analysis Lab](https://github.com/KirkDJohnson/Phishing-Analysis)<br/>
+-[Brute-Force Attack Analysis with CLI Lab](https://github.com/KirkDJohnson/SSH-Brute-Force-Log-Analysis-Lab)<br/>
 -[Endpoint Compromise Log Anlysis with Elastic Search Lab](https://github.com/KirkDJohnson/ELK-Log-Analysis-Lab)<br/>
 -[Ransomware Attack Log Analysis with Splunk Lab](https://github.com/KirkDJohnson/Splunk-Ransomware-Analysis)<br/>
 
