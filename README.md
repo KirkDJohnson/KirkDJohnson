@@ -20,7 +20,7 @@
 -[Brute-Force Attack Analysis with CLI Lab](https://github.com/KirkDJohnson/SSH-Brute-Force-Log-Analysis-Lab)<br/>
 -[Endpoint Compromise Log Anlysis with Elastic Search Lab](https://github.com/KirkDJohnson/ELK-Log-Analysis-Lab)<br/>
 -[Ransomware Attack Log Analysis with Splunk Lab](https://github.com/KirkDJohnson/Splunk-Ransomware-Analysis)<br/>
--[Ransomware Incident Response Lab](
+-[Ransomware Incident Response Lab](https://github.com/KirkDJohnson/Ransomware-Incident-Response-Lab)<br/>
 -[Splunk Dashboard Creation and API Configuration Lab](https://github.com/KirkDJohnson/Setting-Up-Splunk-with-API-Integration-Lab)<br/>
 
 - <h3>Guided Course Labs</b>
