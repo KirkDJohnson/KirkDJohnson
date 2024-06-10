@@ -11,6 +11,7 @@
 - <h3>Blue Team Skills and Labs</b>
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
 -[Configuring a Firewall Lab](https://github.com/KirkDJohnson/Configuring-A-Firewall-Lab)<br/>
+-[Threat Intelligence and Detection Lab](https://github.com/KirkDJohnson/Threat-Detection-Lab)<br/>
 -[Nessus Vulnerability Scanner Lab](https://github.com/KirkDJohnson/Nesses-Vulnerability-Lab)<br/>
 -[Malicious Packet Analysis Lab](https://github.com/KirkDJohnson/Malicious-Packet-Capture-Analysis-Lab/issues/new)<br/>
 -[Wireshark Log4J Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
