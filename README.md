@@ -24,6 +24,7 @@
 -[Ransomware Attack Log Analysis with Splunk Lab](https://github.com/KirkDJohnson/Splunk-Ransomware-Analysis)<br/>
 -[Ransomware Incident Response Lab](https://github.com/KirkDJohnson/Ransomware-Incident-Response-Lab)<br/>
 -[Splunk Dashboard Creation and API Configuration Lab](https://github.com/KirkDJohnson/Setting-Up-Splunk-with-API-Integration-Lab)<br/>
+-[Threat Intelligence Lab](https://github.com/KirkDJohnson/Threat-Intelligence-Lab)<br/>
 
 - <h3>Guided Course Labs</b>
 -[Cisco Coding and Labs](https://github.com/KirkDJohnson/Cisco-Cybersecurity)<br/>
