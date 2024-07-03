@@ -17,6 +17,7 @@
 -[Wireshark Log4J Analysis Lab](https://github.com/KirkDJohnson/Wireshark)<br/>
 -[Wireshark Malicious Port Scan Analysis Lab](https://github.com/KirkDJohnson/Network-Scan-pcap-Lab)<br/>
 -[Brim IDS/pcap Analysis Lab](https://github.com/KirkDJohnson/Brim-IDS-Analysis-Lab)<br/>
+-[Incident Response with Volatility Lab](https://github.com/KirkDJohnson/Volatility-Incident-Response-Lab)<br/>
 -[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)<br/>
 -[Malicious Phishing Email Analysis Lab](https://github.com/KirkDJohnson/Phishing-Analysis)<br/>
 -[Brute-Force Attack Analysis with CLI Lab](https://github.com/KirkDJohnson/SSH-Brute-Force-Log-Analysis-Lab)<br/>
