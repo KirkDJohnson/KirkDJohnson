@@ -18,7 +18,8 @@
 -[Wireshark Malicious Port Scan Analysis Lab](https://github.com/KirkDJohnson/Network-Scan-pcap-Lab)<br/>
 -[Windows Event Log Analysis with Splunk](https://github.com/KirkDJohnson/Windows-Event-Log-Analysis-in-Splunk-Lab)<br/>
 -[Brim IDS/pcap Analysis Lab](https://github.com/KirkDJohnson/Brim-IDS-Analysis-Lab)<br/>
--[Incident Response with Volatility Lab](https://github.com/KirkDJohnson/Volatility-Incident-Response-Lab)<br/>
+-[Digital Forensics with Volatility Lab](https://github.com/KirkDJohnson/Volatility-Incident-Response-Lab)<br/>
+-[Digital Forensics with Autopsy Lab](https://github.com/KirkDJohnson/Digital-Forensics-with-Autopsy-Lab)<br/>
 -[Setting Up a Honeypot Lab](https://github.com/KirkDJohnson/Honey-Pot-Lab)<br/>
 -[Malicious Phishing Email Analysis Lab](https://github.com/KirkDJohnson/Phishing-Analysis)<br/>
 -[Brute-Force Attack Analysis with CLI Lab](https://github.com/KirkDJohnson/SSH-Brute-Force-Log-Analysis-Lab)<br/>
