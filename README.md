@@ -6,6 +6,7 @@
  <h2>IT Support Projects:</h2>
  
 -[Installing Active Directory](https://github.com/KirkDJohnson/Installing-Active-Directory)<br/>
+-[Configuring and Troubleshooting Active Directory](https://github.com/KirkDJohnson/Active-Directory-Configuration)<br/>
  
 <h2> Cybersecurity Projects:</h2>
 
