@@ -2,11 +2,12 @@
 <h2>About Me</h2>
  
 <h3>I aspire to become a Security Operations Center (SOC) Analyst. I am incredibly passionate about protecting digital hosts and asssets from a continuous threat landscape. Through diligent self-learning and hands-on labs, I have built skills in threat intelligence, threat detection, and incident response. Feel free to click the labs below as they will redirect you to the corresponding lab repository.</b>
+
+ <h2>IT Support Projects:</h2>
+ 
+-[Installing Active Directory](https://github.com/KirkDJohnson/Installing-Active-Directory)<br/>
  
 <h2> Cybersecurity Projects:</h2>
-
-
-
 
 - <h3>Blue Team Skills and Labs</b>
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
