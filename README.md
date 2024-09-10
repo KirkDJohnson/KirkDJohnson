@@ -8,6 +8,7 @@
 -[Installing Active Directory](https://github.com/KirkDJohnson/Installing-Active-Directory)<br/>
 -[Configuring and Troubleshooting Active Directory](https://github.com/KirkDJohnson/Active-Directory-Configuration)<br/>
 -[Remote Administration Tools](https://github.com/KirkDJohnson/Remote-Administration-Methods)<br/>
+-[Exploring Ticketing Systems](https://github.com/KirkDJohnson/Ticketing-Systems)<br/>
  
 <h2> Cybersecurity Projects:</h2>
 
