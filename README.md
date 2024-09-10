@@ -1,7 +1,7 @@
-<h1>Hi, I'm Kirk Johnson. <br/> <a >IT Support and Cybersecurity Enthusiast</a>
+<h1>Hi, I'm Kirk Johnson. <br/> <a >IT Support and Cyber security Enthusiast</a>
 <h2>About Me</h2>
  
-<h3>I aspire to become a Security Operations Center (SOC) Analyst. I am incredibly passionate about protecting digital hosts and asssets from a continuous threat landscape. Through diligent self-learning and hands-on labs, I have built skills in threat intelligence, threat detection, and incident response. Feel free to click the labs below as they will redirect you to the corresponding lab repository.</b>
+<h3>I aspire to break into the world of IT. I am incredibly passionate about fixing and protecting IT systems and users from an ever increasing threat landscape. Through diligent self-learning and hands-on labs and projects, I have built skills in IT troubleshooting, Active Directory, Windows, Linux, threat detection, and incident response. Feel free to click the labs below as they will redirect you to the corresponding lab repository.</b>
 
  <h2>IT Support Projects:</h2>
  
