@@ -5,6 +5,7 @@
 
  <h2>IT Support Projects:</h2>
  
+ -[Network Architecture and Troubleshooting with Packet Tracer](https://github.com/KirkDJohnson/Packet-Tracer-Network-Building-and-Troubleshooting)<br/>
 -[Installing Active Directory](https://github.com/KirkDJohnson/Installing-Active-Directory)<br/>
 -[Configuring and Troubleshooting Active Directory](https://github.com/KirkDJohnson/Active-Directory-Configuration)<br/>
 -[Remote Administration Tools](https://github.com/KirkDJohnson/Remote-Administration-Methods)<br/>
@@ -44,20 +45,8 @@
 -[Certifications and Credentials](https://github.com/KirkDJohnson/Certifications-and-Credentials/tree/main)  
 
 
-
-[linkedin]: https://linkedin.com
-
 <!--
 **KirkDJohnson/KirkDJohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
