@@ -14,7 +14,6 @@
  
 <h2> Cybersecurity Projects:</h2>
 
-- <h3>Blue Team Skills and Labs</b>
 -[Active Directory/Splunk Lab](https://github.com/KirkDJohnson/Active-Directory)<br/>
 -[Configuring a Firewall Lab](https://github.com/KirkDJohnson/Configuring-A-Firewall-Lab)<br/>
 -[Threat Detection Lab](https://github.com/KirkDJohnson/Threat-Detection-Lab)<br/>
