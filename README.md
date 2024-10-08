@@ -5,12 +5,12 @@
 
  <h2>IT Support Projects:</h2>
  
- -[Network Architecture and Troubleshooting with Packet Tracer](https://github.com/KirkDJohnson/Packet-Tracer-Network-Building-and-Troubleshooting)<br/>
 -[Installing Active Directory](https://github.com/KirkDJohnson/Installing-Active-Directory)<br/>
 -[Configuring and Troubleshooting Active Directory](https://github.com/KirkDJohnson/Active-Directory-Configuration)<br/>
 -[Remote Administration Tools](https://github.com/KirkDJohnson/Remote-Administration-Methods)<br/>
 -[Exploring Ticketing Systems](https://github.com/KirkDJohnson/Ticketing-Systems)<br/>
 -[Microsoft 365, Intune, and Enta Admin Center Practice](https://github.com/KirkDJohnson/Microsoft-Intune-365-Entra-and-Azure-Practice)<br/>
+-[Network Architecture and Troubleshooting with Packet Tracer](https://github.com/KirkDJohnson/Packet-Tracer-Network-Building-and-Troubleshooting)<br/>
  
 <h2> Cybersecurity Projects:</h2>
 
